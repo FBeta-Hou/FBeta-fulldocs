@@ -39,4 +39,4 @@ markdown_extensions:
       alternate_style: true
   - admonition 
   - pymdownx.details 
-copyright: Copyright &copy; 2024 Honganhs
+copyright: Copyright &copy; 2024 <a href="https://github.com/FBeta-Hou"  target="_blank" rel="noopener">FBeta-Hou</a>
