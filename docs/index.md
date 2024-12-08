@@ -24,7 +24,7 @@ hide:
 
 ## Cài Đặt và Yêu Cầu Hệ Thống
 - Hướng dẫn cài đặt cho người dùng và admin.
-- Yêu cầu hệ thống: Chorme (trình duyệt của Google) 
+- Yêu cầu hệ thống: Chorme (trình duyệt của Google), Budibase v2.0 trở lên
 
 ## Liên Hệ và Hỗ Trợ
 - Email: 22a1001d0029@students.hou.edu.vn

@@ -3,9 +3,13 @@
 - **Mô tả:**
     - Người dùng có thể xem danh sách các khu vực an toàn.
     - Hỗ trợ bản đồ và chỉ đường đến khu vực an toàn gần nhất.
+    ![Image title](assets/KhuDiTan.jpeg){ loading=lazy }
 - **Admin:**
     - Quản lý thông tin khu vực an toàn: thêm, sửa, xóa.
     - Các thông tin bao gồm tên, tọa độ, sức chứa, tình trạng hiện tại.
+    ![Image title](assets/CapNhatKhuDiTan.jpeg){ loading=lazy }
+    ![Image title](assets/CapNhatKhuDiTan2.jpeg){ loading=lazy }
+    ![Image title](assets/CapNhatKhuDiTan2.jpeg){ loading=lazy }
 
 ---
 
@@ -15,7 +19,7 @@
     - Tin tức phân loại theo:
         - **Vùng miền**: Bắc, Trung, Nam.
         - **Loại thiên tai**: Bão, lũ quét, động đất...
-
+![Image title](assets/TinTuc.jpeg){ loading=lazy }
 ---
 
 ## 3. **Gửi thông báo đẩy**
@@ -26,7 +30,9 @@
         - Thông tin cảnh báo khẩn cấp.
         - Cập nhật tình hình thiên tai.
     - Sử dụng dịch vụ **Firebase Cloud Messaging (FCM)** hoặc tương tự.
-
+![Image title](assets/TBPush.jpg){ loading=lazy }
+    - Admin
+![Image title](assets/TB.jpeg){ loading=lazy }
 ---
 
 ## 4. **Cung cấp kiến thức thiên tai**
@@ -37,13 +43,20 @@
     - Nội dung được tổ chức thành các mục dễ tra cứu:
         - Bài viết, hình ảnh, video.
     - Hỗ trợ chức năng tìm kiếm theo từ khóa.
-
 ---
 ## 5. **Bổ sung nút SOS khẩn cấp**
 - **Mô tả:**
     - Giao diện nút SOS ở tất cả các trang. 
     - Gửi yêu cầu khẩn cấp 
-
+---
+## 6. **Yêu cầu hỗ trợ**
+- **Mô tả:**
+    - Gửi yêu cầu hỗ trợ và quản lý các yêu cầu này 
+![Image title](assets/YC1.jpeg){ loading=lazy }
+![Image title](assets/YC2.jpeg){ loading=lazy }
+![Image title](assets/YC3.jpeg){ loading=lazy }
+![Image title](assets/YC4.jpeg){ loading=lazy }
+![Image title](assets/YCHoTroAdmin.jpeg){ loading=lazy }
 ---
 
 ## Kế hoạch triển khai
