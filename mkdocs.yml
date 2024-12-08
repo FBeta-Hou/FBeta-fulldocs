@@ -26,6 +26,7 @@ theme:
     - search.highlight
     - search.share
     - content.tabs.link
+    - content.code.annotate
   palette: 
     #Dark Mode
     - scheme: slate
@@ -41,6 +42,21 @@ theme:
         name: Light mode
       primary: light blue
       accent: blue 
+nav: 
+  - Trang Chủ: 
+    - "index.md"
+  - Tính năng chính: 
+    - "tinhNangChinh.md"
+  - Kiến trúc hệ thống:
+    - "KienTrucHeThong.md"
+  - Cài Đặt: 
+    - "CachCaiDat.md"
+  - Sử Dụng: 
+    - "CachSD.md"
+  - Chính Sách:
+    - "ChinhSach.md"
+plugins:
+  - glightbox
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -58,4 +74,5 @@ markdown_extensions:
       alternate_style: true
   - admonition 
   - pymdownx.details 
+  - pymdownx.blocks.caption
 copyright: Copyright &copy; 2024 <a href="https://github.com/FBeta-Hou"  target="_blank" rel="noopener">FBeta-Hou</a>
