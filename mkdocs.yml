@@ -1,20 +1,38 @@
 site_name: Ứng Dụng Hỗ Trợ Thiên Tai 
 site_url: https://fbeta-hou.github.io/FBeta-fulldocs/
+repo_url: https://github.com/FBeta-Hou 
+repo_name: FBeta_HOU
 theme: 
+  icon:
+    repo: fontawesome/brands/git-alt 
   name: material 
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Roboto
+    code: Roboto Mono
   logo: assets/logo-docs.png
+  language: vi
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes 
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
   palette: 
     #Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: light blue
+      primary: indigo
       accent: blue
     #Light Mode
     - scheme: default
@@ -25,6 +43,7 @@ theme:
       accent: blue 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
