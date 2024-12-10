@@ -9,7 +9,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/logo-docs.png
+  logo: assets/logo-la.png
   language: vi
   features:
     - navigation.footer
@@ -22,11 +22,12 @@ theme:
     - navigation.path
     - navigation.indexes 
     - toc.integrate
+    - content.tabs.link
+    - content.code.annotate
     - search.suggest
     - search.highlight
     - search.share
-    - content.tabs.link
-    - content.code.annotate
+    - 
   palette: 
     #Dark Mode
     - scheme: slate
@@ -57,6 +58,7 @@ nav:
     - "ChinhSach.md"
 plugins:
   - glightbox
+  - search
 markdown_extensions:
   - attr_list
   - md_in_html

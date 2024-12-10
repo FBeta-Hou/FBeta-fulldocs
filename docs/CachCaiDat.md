@@ -2,12 +2,21 @@
 # Hướng Dẫn Cài Đặt 
 
 ## **Yêu Cầu Hệ Thống**
-
-- **Node.js**: Phiên bản 12.x trở lên.
-- **MongoDB**: Cài đặt và chạy MongoDB cục bộ hoặc từ một server.
-- **Goong API Key**: Đăng ký và nhận API Key từ [Goong API](https://goong.io/).
-- **Firebase Project**: Tạo và cấu hình Firebase project để sử dụng dịch vụ thông báo đẩy (push notifications). <br>Cụ thể là 
-[FCM ](https://firebase.google.com/docs/cloud-messaging?hl=vi) và [Firestore](https://firebase.google.com/docs/firestore?hl=vi)
+!!! example "Yêu Cầu"
+    - **Phần Cứng:**
+        - Mạng: Kết nối internet ổn định, IP tĩnh nếu triển khai trên server.
+        - CPU: Tối thiểu 4 nhân (khuyến nghị 8 nhân).
+        - RAM: Tối thiểu 8GB (khuyến nghị 16GB).
+        - Ổ cứng: Tối thiểu 50GB SSD.
+    - **Phần Mềm:**
+        - Hệ điều hành: Ubuntu 20.04+, CentOS 7/8, Windows 10/Server 2019+, hoặc macOS 11+.
+        - Docker & Docker Compose: Phiên bản Docker Engine 20.10+, Compose 1.29+.
+        - Node.js: Tối thiểu 14.x (khuyến nghị 16.x+).
+        - Cơ sở dữ liệu: [MongoDB](https://www.mongodb.com/docs/manual/) cục bộ hoặc cloud với [MongoDB Atlas](https://www.mongodb.com/docs/atlas/).
+    - **Công cụ bổ sung:** 
+        - **Goong API Key**: Đăng ký và nhận API Key từ [Goong API](https://goong.io/).
+        - **Firebase Project**: Tạo và cấu hình Firebase project để sử dụng dịch vụ thông báo đẩy (push notifications). <br>Cụ thể là 
+    [FCM ](https://firebase.google.com/docs/cloud-messaging?hl=vi) và [Firestore](https://firebase.google.com/docs/firestore?hl=vi)
 
 ---
 
@@ -75,10 +84,3 @@ npm start
 - Map Service sẽ chạy tại http://localhost:3000/map.
 - Notification Service sẽ chạy tại http://localhost:3000/send-notification 
 
-## Các Chức Năng Chính
-
-1. Lấy Vị Trí Hiện Tại: Sử dụng Goong API để lấy và hiển thị vị trí hiện tại của người dùng trên bản đồ.
-2. Chỉ Đường: Cung cấp chức năng chỉ đường từ vị trí người dùng đến các khu vực an toàn.
-3. Tạo Marker: Các marker sẽ được tạo từ dữ liệu tọa độ lat, long trong MongoDB và hiển thị trên bản đồ.
-4. Thông Tin Vị Trí: Hiển thị thông tin chi tiết khi người dùng click vào các marker trên bản đồ.
-5. Thông Báo Đẩy: Admin có thể gửi thông báo đẩy tới người dùng thông qua Firebase.
