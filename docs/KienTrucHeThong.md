@@ -1,5 +1,5 @@
 # Kiến trúc hệ thống 
-![Image title](assets/WEB.png){ loading=lazy }
+
 
 ## **Mô tả hệ thống**
 
