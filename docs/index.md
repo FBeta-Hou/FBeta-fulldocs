@@ -38,14 +38,14 @@ hide:
 
     Cung cấp kiến thức về loại thiên tai, kỹ năng phòng chống
 
--   :material-chat-alert:{ .lg .middle } __Gửi yêu cầu hỗ trợ__
+-   :material-help-network:{ .lg .middle } __Gửi yêu cầu hỗ trợ__
 
     ---
 
     Gửi yêu cầu hỗ trợ khi có vấn đề trong thiên tai 
 
 
--   :simple-googledocs:{ .lg .middle } __SOS khẩn cấp__
+-   :sos:{ .lg .middle } __Tín hiệu khẩn cấp__
 
     ---
 
