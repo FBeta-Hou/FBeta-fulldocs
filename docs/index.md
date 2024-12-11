@@ -5,7 +5,9 @@ hide:
 # Hỗ trợ thiên tai
 
 ![Image title](assets/logo.png){ align=right }
-
+## Đặt vấn đề 
+Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms) là khả năng nhanh chóng chuyển đổi từ ý tưởng thành sản phẩm. Điều này đặc biệt quan trọng trong các tình huống khẩn cấp, như đại dịch Covid-19 hay thiên tai do bão lũ, khi thời gian là yếu tố quyết định. Trong các tình huống này, nhu cầu sử dụng công nghệ thông tin để kết nối cộng đồng, cung cấp thông tin nhanh chóng và hỗ trợ các hoạt động ứng phó, khắc phục hậu quả, và hỗ trợ nhân đạo là rất cấp thiết.
+## Giải pháp
 ## Giới Thiệu Ứng Dụng
 **Hỗ Trợ Thiên Tai** là ứng dụng cứu trợ thiên tai được thiết kế để hỗ trợ người dùng trong các tình huống khẩn cấp như bão, động đất, lũ quét, v.v. Ứng dụng cung cấp các tính năng như di tản an toàn, xem tin tức cập nhật về thiên tai, nhận thông báo đẩy và học hỏi các kỹ năng phòng tránh thiên tai.
 
@@ -54,7 +56,7 @@ hide:
 
 </div>
 
-
+## Định hướng phát triển
 ## Liên Hệ và Hỗ Trợ
 - Email: 22a1001d0029@students.hou.edu.vn
 
