@@ -54,7 +54,7 @@ budi hosting --start
 
 Chạy dự án trên trình duyệt của bạn [http://localhost:10000](http://localhost:10000). Sau đó tạo đăng nhập và tạo ứng dụng.
 
-Tải dự án về tại [link](https://github.com/NHD04072004/ketnoitinhnguyen/releases/download/v2.0/ketnoitinhnguyen-export-1733737522961.tar.gz).
+Tải dự án về tại [link](https://github.com/FBeta-Hou/FBeta-Hou-App/blob/main/HoTroThienTai-export-1733664478310.tar.gz).
 
 Sau đó, vào `Settings > Export/Import > Import app` rồi kéo thả file tài nguyên vào, sau đó ấn `Update`.
 
