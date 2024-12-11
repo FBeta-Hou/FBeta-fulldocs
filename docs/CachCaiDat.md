@@ -19,8 +19,48 @@
     [FCM ](https://firebase.google.com/docs/cloud-messaging?hl=vi) và [Firestore](https://firebase.google.com/docs/firestore?hl=vi)
 
 ---
-
 ## **Các Bước Cài Đặt**
+
+### Yêu Cầu 📋
+
+Để cài đặt và chạy được dự án, trước tiên bạn cần phải cài đặt các công cụ bên dưới. Hãy thực hiện theo các hướng dẫn cài đặt sau, lưu ý chọn hệ điều hành phù hợp với máy tính:
+
+-   [Docker-Installation](https://docs.docker.com/get-docker/)
+-   [Docker-Compose-Installation](https://docs.docker.com/compose/install/)
+-   [NodeJS v22-Installation](https://nodejs.org/en/download/)
+-   [Budibase Cli-Installation](https://docs.budibase.com/docs/budibase-cli-setup)
+
+**Cài đặt nhanh:** File `setup.sh` trong dự án của tôi
+```bash
+sh setup.sh
+```
+
+### 🔨 Cài Đặt
+
+Trước hết, hãy khởi tạo dự án:
+
+```bash
+mkdir myProject
+cd myProject
+
+budi hosting --init
+```
+
+Tiếp theo, khởi chạy dự án:
+
+```bash
+budi hosting --start
+```
+
+Chạy dự án trên trình duyệt của bạn [http://localhost:10000](http://localhost:10000). Sau đó tạo đăng nhập và tạo ứng dụng.
+
+Tải dự án về tại [link](https://github.com/NHD04072004/ketnoitinhnguyen/releases/download/v2.0/ketnoitinhnguyen-export-1733737522961.tar.gz).
+
+Sau đó, vào `Settings > Export/Import > Import app` rồi kéo thả file tài nguyên vào, sau đó ấn `Update`.
+
+![Image title](assets/import-app.png)
+
+## **Các Bước Cài Đặt Services**
 
 ### 1. Clone Repo
 
