@@ -58,7 +58,7 @@ Tải dự án về tại [link](https://github.com/NHD04072004/ketnoitinhnguyen
 
 Sau đó, vào `Settings > Export/Import > Import app` rồi kéo thả file tài nguyên vào, sau đó ấn `Update`.
 
-![Image title](assets/import-app.png)
+![Image title](assets/import-appp.png)
 
 ## **Các Bước Cài Đặt Services**
 
