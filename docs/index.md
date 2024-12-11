@@ -11,17 +11,19 @@ hide:
 ## Các chức năng chính 
 <div class="grid cards" markdown>
 
--   :material-star:{ .lg .middle } __Di tản đến khu vực an toàn__
+-   :material-newspaper:{ .lg .middle } __Quản lý tin tức và dự báo thời tiết__
+
+    ---
+
+    Xem tin tức cập nhật về tình hình thiên tai hiện nay à dự báo thời tiết theo khu vực
+
+-   :material-star:{ .lg .middle } __Quản lý khu vực an toàn__
 
     ---
 
     Hỗ trợ chỉ đường di tản đến khu vực an toàn
 
--   :material-newspaper:{ .lg .middle } __Cung cấp tin tức__
 
-    ---
-
-    Xem tin tức cập nhật về tình hình thiên tai hiện nay
 
 
 -   :material-chat-alert:{ .lg .middle } __Cảnh báo sớm__
@@ -31,24 +33,11 @@ hide:
     Gửi thông báo đến người dùng, hướng dẫn di tản, cập nhật tình hình thiên tai
 
 
--   :material-home:{ .lg .middle } __Quản lý khu di tản__
-
-    ---
-
-    Quản lý thông tin, trạng thái khu vực di tản
-
--   :material-help-network:{ .lg .middle } __Gửi yêu cầu hỗ trợ__
+-   :material-help-network:{ .lg .middle } __Quản lý yêu cầu hỗ trợ__
 
     ---
 
     Gửi yêu cầu hỗ trợ khi có vấn đề trong thiên tai 
-
-
--   :sos:{ .lg .middle } __Tín hiệu khẩn cấp__
-
-    ---
-
-    Ra tín hiệu SOS trong trường hợp đặc biệt khẩn cấp
 
 
 </div>

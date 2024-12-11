@@ -1,6 +1,7 @@
 # Kiến trúc hệ thống 
 
-## **Mô tả hệ thống**
+## **Công nghệ sử dụng**
+![Image title](assets/congnghe.png){ loading=lazy }
 
 Hệ thống **Hỗ trợ thiên tai** được thiết kế với các thành phần chính như sau:
 

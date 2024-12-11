@@ -43,11 +43,13 @@
     - Nội dung được tổ chức thành các mục dễ tra cứu:
         - Bài viết, hình ảnh, video.
     - Hỗ trợ chức năng tìm kiếm theo từ khóa.
+![Image title](assets/kienthuc.png){ loading=lazy }
 ---
 ## 5. **Bổ sung nút SOS khẩn cấp**
 - **Mô tả:**
     - Giao diện nút SOS ở tất cả các trang. 
     - Gửi yêu cầu khẩn cấp 
+![Image title](assets/sos.png){ loading=lazy }
 ---
 ## 6. **Yêu cầu hỗ trợ**
 - **Mô tả:**
@@ -57,6 +59,10 @@
 ![Image title](assets/YC3.jpeg){ loading=lazy }
 ![Image title](assets/YC4.jpeg){ loading=lazy }
 ![Image title](assets/YCHoTroAdmin.jpeg){ loading=lazy }
+
+## 7. **Dự báo thời tiết theo khu vực** 
+![Image title](assets/dubaothoitiet.png){ loading=lazy }
+
 ---
 
 ## Kế hoạch triển khai
