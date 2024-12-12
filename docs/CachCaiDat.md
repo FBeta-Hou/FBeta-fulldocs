@@ -60,7 +60,9 @@ Sau đó, vào `Settings > Export/Import > Import app` rồi kéo thả file tà
 
 ![Image title](assets/import-appp.png)
 
-Tại đây bạn đã có thể thao tác với ứng dụng. Nếu muốn cài đặt dịch vụ của riêng mình để sử dụng. thì hãy đến với phần tiếp theo. 
+!!! example "Note"
+    Tại đây bạn đã có thể thao tác với ứng dụng. Nếu muốn cài đặt dịch vụ của riêng mình để sử dụng. thì hãy đến với phần tiếp theo. 
+---
 
 
 ## **Các Bước Cài Đặt Services**
